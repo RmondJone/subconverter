@@ -1,2 +1,2 @@
 DOMAIN-SUFFIX,mastergo.com
-IP-CIDR,172.32.147.85,no-resolve
+IP-CIDR,172.32.147.0/8,no-resolve
