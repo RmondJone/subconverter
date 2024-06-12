@@ -29,5 +29,5 @@ DOMAIN-SUFFIX,docker.com
 DOMAIN-KEYWORD,zerotier
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,gradle.org
-
-
+DOMAIN-KEYWORD,telegram
+DOMAIN-KEYWORD,telega
