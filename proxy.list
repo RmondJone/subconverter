@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,flutter.dev
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,termius.com 
 DOMAIN-KEYWORD,brew
 DOMAIN-KEYWORD,apache
 DOMAIN-KEYWORD,cloudflare
