@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,termius.com 
 DOMAIN-SUFFIX,docker.io 
 DOMAIN-KEYWORD,brew
+DOMAIN-KEYWORD,jitpack
 DOMAIN-KEYWORD,apache
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,google
