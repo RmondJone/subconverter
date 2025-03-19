@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,debian.org
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,archives.boost.io
 DOMAIN-SUFFIX,racknerd.com
 DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,jetbrains.com
@@ -68,6 +69,7 @@ DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,facebook.net
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,archives
 DOMAIN-KEYWORD,jetbrains
 DOMAIN-KEYWORD,figma
 DOMAIN-KEYWORD,cloudfront
