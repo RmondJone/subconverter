@@ -16,7 +16,8 @@ DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,sourceforge.net
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,termius.com 
-DOMAIN-SUFFIX,docker.io 
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-KEYWORD,brew
 DOMAIN-KEYWORD,sn-
 DOMAIN-KEYWORD,guohanlin
