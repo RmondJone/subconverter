@@ -5,5 +5,6 @@ DOMAIN-KEYWORD,zczy
 DOMAIN-KEYWORD,zczy100
 DOMAIN-KEYWORD,ecouser
 DOMAIN-KEYWORD,binance
+DOMAIN-SUFFIX,dl.google.com
 IP-CIDR,172.32.147.0/8,no-resolve
 IP-CIDR,172.32.147.0/24,no-resolve
