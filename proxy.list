@@ -15,11 +15,13 @@ DOMAIN-SUFFIX,flutter.dev
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,sourceforge.net
 DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,termius.com 
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-KEYWORD,brew
+DOMAIN-KEYWORD,stitch
 DOMAIN-KEYWORD,descript
 DOMAIN-KEYWORD,reddit
 DOMAIN-KEYWORD,kraken
