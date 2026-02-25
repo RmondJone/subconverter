@@ -697,9 +697,11 @@ void proxyToClash(std::vector<Proxy> &nodes, YAML::Node &yamlnode, const ProxyGr
                 // Fallback for backward compatibility
                 singleproxy["flow"] = x.Flow;
             }
-            if (!x.PublicKey.empty() && !x.ShortID.empty()) {
+            if (!x.PublicKey.empty()) {
                 singleproxy["reality-opts"]["public-key"] = x.PublicKey;
-                singleproxy["reality-opts"]["short-id"] = x.ShortID;
+                if (!x.ShortID.empty()) {
+                    singleproxy["reality-opts"]["short-id"] = x.ShortID;
+                }
                 if (!x.ClientFingerprint.empty()) {
                     singleproxy["client-fingerprint"] = x.ClientFingerprint;
                 } else if (!x.Fingerprint.empty()) {
