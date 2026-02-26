@@ -10,8 +10,8 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  REGISTRY_IMAGE: metacubex/subconverter
-  GHCR_IMAGE: ghcr.io/metacubex/subconverter
+  REGISTRY_IMAGE: guohanlin/subconverter
+  GHCR_IMAGE: ghcr.io/guohanlin/subconverter
 
 jobs:
   build-dockerhub:
