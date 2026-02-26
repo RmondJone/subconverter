@@ -707,7 +707,7 @@ void proxyToClash(std::vector<Proxy> &nodes, YAML::Node &yamlnode, const ProxyGr
                 } else if (!x.Fingerprint.empty()) {
                     singleproxy["client-fingerprint"] = x.Fingerprint;
                 } else {
-                    singleproxy["client-fingerprint"] = "random";
+                    singleproxy["client-fingerprint"] = "chrome";
                 }
             }
             if (!scv.is_undef())
