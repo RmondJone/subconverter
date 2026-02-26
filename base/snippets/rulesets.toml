@@ -59,12 +59,20 @@ group = "🔰 节点选择"
 ruleset = "rules/DivineEngine/Surge/Ruleset/Global.list"
 
 [[rulesets]]
+group = "🔰 节点选择"
+ruleset = "rules/DivineEngine/Surge/Ruleset/proxy.list"
+
+[[rulesets]]
 group = "🍎 苹果服务"
 ruleset = "rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list"
 
 [[rulesets]]
 group = "🎯 全球直连"
 ruleset = "rules/DivineEngine/Surge/Ruleset/China.list"
+
+[[rulesets]]
+group = "🎯 全球直连"
+ruleset = "rules/DivineEngine/Surge/Ruleset/direct.list"
 
 [[rulesets]]
 group = "🎯 全球直连"
