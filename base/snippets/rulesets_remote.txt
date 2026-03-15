@@ -1,9 +1,9 @@
 🛑 全球拦截,https://raw.githubusercontent.com/RmondJone/subconverter/refs/heads/master/base/rules/DivineEngine/Surge/Ruleset/Guard/Advertising.list
 🛑 全球拦截,https://raw.githubusercontent.com/RmondJone/subconverter/refs/heads/master/base/rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list
 🔰 节点选择,https://raw.githubusercontent.com/RmondJone/subconverter/refs/heads/master/base/rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/YouTube.list
-🎥 NETFLIX,https://raw.githubusercontent.com/RmondJone/subconverter/refs/heads/master/base/rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list
-🌍 国外媒体,https://raw.githubusercontent.com/RmondJone/subconverter/refs/heads/master/base/rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list
-🌍 国外媒体,https://raw.githubusercontent.com/RmondJone/subconverter/refs/heads/master/base/rules/DivineEngine/Surge/Ruleset/StreamingMedia/StreamingSE.list
+🔰 节点选择,https://raw.githubusercontent.com/RmondJone/subconverter/refs/heads/master/base/rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list
+🔰 节点选择,https://raw.githubusercontent.com/RmondJone/subconverter/refs/heads/master/base/rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list
+🔰 节点选择,https://raw.githubusercontent.com/RmondJone/subconverter/refs/heads/master/base/rules/DivineEngine/Surge/Ruleset/StreamingMedia/StreamingSE.list
 📲 电报信息,https://raw.githubusercontent.com/RmondJone/subconverter/refs/heads/master/base/rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list
 🔰 节点选择,https://raw.githubusercontent.com/RmondJone/subconverter/refs/heads/master/base/rules/DivineEngine/Surge/Ruleset/Global.list
 🔰 节点选择,https://raw.githubusercontent.com/RmondJone/sub_config/refs/heads/main/proxy.list
