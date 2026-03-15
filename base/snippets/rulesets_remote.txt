@@ -8,5 +8,5 @@
 🔰 节点选择,https://raw.githubusercontent.com/RmondJone/subconverter/refs/heads/master/base/rules/DivineEngine/Surge/Ruleset/Global.list
 🔰 节点选择,https://raw.githubusercontent.com/RmondJone/sub_config/refs/heads/main/proxy.list
 🍎 苹果服务,https://raw.githubusercontent.com/RmondJone/subconverter/refs/heads/master/base/rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list
-🎯 DIRECT,https://raw.githubusercontent.com/RmondJone/subconverter/refs/heads/master/base/rules/DivineEngine/Surge/Ruleset/China.list
-🎯 DIRECT,https://raw.githubusercontent.com/RmondJone/sub_config/refs/heads/main/direct.list
+🎯 全球直连,https://raw.githubusercontent.com/RmondJone/subconverter/refs/heads/master/base/rules/DivineEngine/Surge/Ruleset/China.list
+🎯 全球直连,https://raw.githubusercontent.com/RmondJone/sub_config/refs/heads/main/direct.list
