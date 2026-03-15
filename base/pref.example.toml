@@ -225,9 +225,6 @@ update_ruleset_on_request = false
 [[rulesets]]
 import = "snippets/rulesets.toml"
 
-[[rulesets]]
-import = "snippets/rulesets_remote.txt"
-
 [template]
 template_path = ""
 

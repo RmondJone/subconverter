@@ -91,6 +91,7 @@ rulesets:
 #  - {ruleset: "clash-ipcidr:https://ruleset.dev/clash_domestic_services_ips", group: "Domestic Services", interval: 86400}
 #  - {ruleset: "clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/China.yaml", group: "DIRECT", interval: 86400}
   - {import: snippets/rulesets.txt}
+  - {import: snippets/rulesets_remote.txt}
 
 proxy_groups:
   custom_proxy_group:

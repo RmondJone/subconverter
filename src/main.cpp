@@ -125,15 +125,14 @@ int main(int argc, char *argv[])
         global.prefPath = "pref.yml";
     else if(!fileExist("pref.ini"))
     {
-        if(fileExist("pref.example.toml"))
-        {
-            fileCopy("pref.example.toml", "pref.toml");
-            global.prefPath = "pref.toml";
-        }
-        else if(fileExist("pref.example.yml"))
+         if(fileExist("pref.example.yml"))
         {
             fileCopy("pref.example.yml", "pref.yml");
             global.prefPath = "pref.yml";
+        }else if(fileExist("pref.example.toml"))
+        {
+            fileCopy("pref.example.toml", "pref.toml");
+            global.prefPath = "pref.toml";
         }
         else if(fileExist("pref.example.ini"))
             fileCopy("pref.example.ini", "pref.ini");
