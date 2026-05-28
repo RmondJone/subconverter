@@ -2358,7 +2358,6 @@ Rule:
 - DOMAIN-SUFFIX,staticdn.net,DIRECT
 - DOMAIN-SUFFIX,wangsu.com,DIRECT
 # > IP Query
-- DOMAIN-SUFFIX,ipip.net,DIRECT
 - DOMAIN-SUFFIX,ip.la,DIRECT
 - DOMAIN-SUFFIX,ip-cdn.com,DIRECT
 - DOMAIN-SUFFIX,ipv6-test.com,DIRECT
