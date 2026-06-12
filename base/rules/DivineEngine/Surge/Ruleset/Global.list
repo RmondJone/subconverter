@@ -8,8 +8,6 @@ DOMAIN,s3-ap-southeast-2.amazonaws.com
 # > Akamai
 DOMAIN,a248.e.akamai.net
 DOMAIN,a771.dscq.akamai.net
-# > Apple
-DOMAIN,testflight.apple.com
 # > Clubhouse
 DOMAIN-SUFFIX,clubhouseapi.com
 DOMAIN-SUFFIX,joinclubhouse.com
@@ -564,30 +562,6 @@ DOMAIN-SUFFIX,smartmailcloud.com
 DOMAIN-SUFFIX,weebly.com
 DOMAIN-SUFFIX,twitter.jp
 
-# (Region-Restricted Access Denied)
-# ---(Apple)---
-DOMAIN-SUFFIX,appsto.re // Apple URL Shortener
-DOMAIN,books.itunes.apple.com // iBooks Store download
-DOMAIN-SUFFIX,smoot.apple.com // Spotlight
-DOMAIN,beta.music.apple.com // Apple Music Web
-DOMAIN,lookup-api.apple.com // Look Up
-# > Web Preview
-DOMAIN,apps.apple.com
-DOMAIN,books.apple.com
-DOMAIN,itunes.apple.com
-DOMAIN,tv.apple.com
-# > Podcasts
-DOMAIN,amp-api.podcasts.apple.com
-DOMAIN,bookkeeper.itunes.apple.com
-# > News
-DOMAIN,gateway.icloud.com
-DOMAIN-SUFFIX,apple.news
-DOMAIN,news-assets.apple.com
-DOMAIN,news-client.apple.com
-DOMAIN,news-client-search.apple.com
-DOMAIN,news-edge.apple.com
-DOMAIN,news-events.apple.com
-DOMAIN,apple.comscoreresearch.com
 # ------
 # Google
 DOMAIN-SUFFIX,go.dev
@@ -606,12 +580,6 @@ DOMAIN-SUFFIX,shopeemobile.com
 DOMAIN-SUFFIX,sushi.com
 URL-REGEX,http:\/\/img\.sina\.com\/usweibo\/
 
-# (Network Jitter)
-# > Apple
-DOMAIN,appleid.apple.com
-DOMAIN,developer.apple.com
-DOMAIN,www.icloud.com
-DOMAIN,ocsp.apple.com
 # > DigiCert
 DOMAIN,cacerts.digicert.com
 DOMAIN,crl3.digicert.com
